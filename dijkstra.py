@@ -1,3 +1,17 @@
+# TODO
+# Instructions to install the required libraries:
+# 1. Open Command Prompt.
+# 2. Type "pip install matplotlib" and press Enter. Wait for the installation to complete.
+# 3. Type "pip install networkx" and press Enter. Wait for the installation to complete.
+
+# To verify if the libraries are installed on your device:
+# 1. Open Command Prompt.
+# 2. Type "python -m pip show {library_name}" (replace {library_name} with 'matplotlib' or 'networkx') and press Enter.
+# 3. Check the output to confirm the library is installed.
+
+# Reminder:
+# Ensure that the 'graph.py' file is located in the same directory as this script.
+
 import matplotlib.pyplot as plt
 import networkx as nx
 from graph import Graph
